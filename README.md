@@ -5,7 +5,7 @@ I'm Zach, I've been in the trenches of kitchens for almost 2 decades I'm a Lead 
 
 ## GitHub Stats
 
-[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalbright90&show_icons=true&theme=highcontrast&border-radius=18)
+![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalbright90&show_icons=true&theme=highcontrast&border-radius=18)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zalbright90&layout=compact&theme=highcontrast)
 
