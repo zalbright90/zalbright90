@@ -1,5 +1,5 @@
 ## Hello World! 👋
-I'm Zach, I've been in the trenches of kitchens for almost two decades I'm a 🔪 Lead Line Cook 🔪 by trade, and have always been an aspiring developer, May 2024, I decided to make a bigger change in my life taking what I've learned in kitchens and hopefully being part of the forefront of incorporating AI into kitchens in the future. I already have a couple projects in mind, but I have one main one I'm focused on. I have a bit to learn, as well as some math to brush up on. Feels good man!
+I'm Zach, I'm a 🔪 Lead Line Cook 🔪 by trade, and I've been in the trenches of kitchens for almost two decades. I have always been an aspiring developer, on May 2024, I decided to make a bigger change in my life taking what I've learned in kitchens and hopefully being part of the forefront of incorporating AI into kitchens in the future. I already have a couple projects in mind, but I have one main one I'm focused on. I have a bit to learn, as well as some math to brush up on. Feels good man!
 
 
 ## GitHub Stats
