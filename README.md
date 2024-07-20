@@ -33,7 +33,7 @@ I'm passionate about leveraging technology to innovate in the culinary industry,
 ⚡ Fun Fact: The term 'full stack developer' was coined by Reddit co-founder Alexis Ohanian in a 2008 job posting!
 
 🗨️ Favorite Quote: 
-> "Moderately wise a man should be, not too crafty or clever. A learned man's heart, whose learning is deep, seldom sings with joy." ~ The Havamal
+> "Moderately wise a man should be,<br> not too crafty or clever. <br> A learned man's heart,<br> whose learning is deep,<br> seldom sings with joy." ~ The Havamal
 
 ## GitHub Stats
 
