@@ -26,6 +26,7 @@ I'm passionate about leveraging technology to innovate in the culinary industry,
 📫 Reach out to me via:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="linkedin" alt="LinkedIn" height="16" width="16"/> [LinkedIn](https://www.linkedin.com/in/zach-albright-3993112b3/) <!-- Add your LinkedIn profile link here -->
 - <img src="https://github.com/user-attachments/assets/ebd028e5-410f-4050-bc53-0ea400f4b533" title="webicon" alt="WebIcon" height="16" width="16" /> [My Business Website](https://www.prismpaletteproductions.biz/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" title="twitter" alt="Twitter" height="16" width="16" /> [Twitter](https://x.com/zalbright404)
 
 ## Personal Touch
 😄 Pronouns: He/Him (dude, bro, man are also welcome)
