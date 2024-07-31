@@ -37,6 +37,8 @@ I'm passionate about leveraging technology to innovate in the culinary industry,
 
 ## GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zalbright90&show_icons=true&theme=highcontrast&border-radius=18)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zalbright90&layout=compact&theme=highcontrast)
