@@ -50,10 +50,12 @@ I'm passionate about leveraging technology to innovate in the culinary industry,
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title ="html5" alt="HTML5" height="64" width="64"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="css3" alt="CSS3" height ="64" width="64"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="javascript" alt="JavaScript" height="64" width="64"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title ="C" alt="C" height="64" width="64"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="typescript" alt="TypeScript" height="64" width="64"/>
 
 ### Web Frameworks
+
 #### Node.js Exosystem
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" title="nodejs" alt="NodeJS" height="64" width="64"/>
+
 | express.js | nest.js |
-|---------|---------|
+|-----|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="expressjs" alt="ExpressJS" height="64" width="64"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="nestjs" alt="NestJS" height="64" width="64"/>
 
 
