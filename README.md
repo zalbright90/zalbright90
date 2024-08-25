@@ -1,39 +1,42 @@
-# Welcome to My GitHub Profile!
-
+# 🍴 Welcome to My GitHub Profile! 🖥️
 ## Hello World! 👋
-Hi, I'm Zach, a 🔪 Lead Line Cook 🔪 with nearly two decades of experience in the kitchen trenches. Cooking has been my passion, but in May 2024, I decided to take on a new challenge—combining my culinary expertise with my long-standing interest in technology. My goal is to be at the forefront of integrating AI into kitchen operations, creating innovative solutions that bridge the gap between food and tech. I've already got a few projects in the works, with one major initiative taking center stage. There's still plenty to learn, including brushing up on some math, but the journey is exhilarating. Feels good, man!
 
-## About Me
-I'm passionate about leveraging technology to innovate in the culinary industry, particularly focusing on financial management and sustainability through AI integration.
+Hey there! I'm Zach, a 🔪 Lead Line Cook 🔪 with nearly 20 years of culinary experience. After spending two decades crafting dishes, I’m diving headfirst into the tech world as of May 2024. My mission? To fuse my passion for food with technology, particularly AI, to revolutionize kitchen operations. While I'm still brushing up on some math and tech fundamentals, I'm thrilled by the challenge and excited to be working on projects that bring together my two passions. Feels good, man!
 
-## Current Focus
-🔭 I'm working on getting back into development, with the goal of becoming a local leader in AI-integrated applications for the culinary industry.
+### About Me
+I'm driven by the idea of leveraging technology to innovate in the culinary industry. My focus? Integrating AI to improve financial management, sourcing quality ingredients, and promote sustainability in the kitchen.
 
-🌱 I'm currently enhancing my skills through:
-- The Odin Project
-- CS50x
+### Current Focus
+🔭 I'm rekindling my love for development, with the goal of becoming a local leader in AI-driven culinary applications.
 
-## Future Aspirations
-👯 I'm keen to collaborate on diverse projects to expand my expertise.
+🌱 I’m sharpening my skills with:
+  * The Odin Project (Full-stack web development)
+  * CS50x (Harvard's Introduction to Computer Science)
 
-🤔 I'm seeking guidance on:
-- Understanding AI and its application integration
-- Identifying key prerequisites for AI development
+### Future Aspirations
+👯 I’m eager to collaborate on diverse projects that challenge me and expand my expertise.
 
-## Let's Connect!
-💬 Feel free to ask me anything - I'm open to discussions on various topics!
+🤔 Looking for insights on:
+  * The practical integration of AI in the culinary industry
+  * Key foundational skills required for AI development
 
-📫 Reach out to me via:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="linkedin" alt="LinkedIn" height="16" width="16"/> [LinkedIn](https://www.linkedin.com/in/zach-albright-3993112b3/) <!-- Add your LinkedIn profile link here -->
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" title="twitter" alt="Twitter" height="16" width="16" /> [Twitter](https://x.com/zalbright404)
+#### Let's Connect!
+💬 I’m open to chatting about anything — from tech to tacos! Let’s connect:
 
-## Personal Touch
-😄 Pronouns: He/Him (dude, bro, man are also welcome)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="linkedin" alt="LinkedIn" height="16" width="16"/> LinkedIn
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" title="twitter" alt="Twitter" height="16" width="16" /> Twitter
+Personal Touch
+😄 Pronouns: He/Him (dude, bro, man — take your pick!)
 
-⚡ Fun Fact: The term 'full stack developer' was coined by Reddit co-founder Alexis Ohanian in a 2008 job posting!
+⚡ Fun Fact: I’ve grilled, sautéed, and seared my way through over 300,000 tacos, 5,000 steaks (from Filet Mignon to Top Sirloin), and 75,000 gourmet burgers!
 
-🗨️ Favorite Quote: 
-> "Moderately wise a man should be,<br> not too crafty or clever. <br> A learned man's heart,<br> whose learning is deep,<br> seldom sings with joy." ~ The Havamal
+🗨️ Favorite Quote:
+
+"Moderately wise a man should be,
+not too crafty or clever.
+A learned man's heart,
+whose learning is deep,
+seldom sings with joy." ~ The Hávamál
 
 ## GitHub Stats
 
