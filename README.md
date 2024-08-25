@@ -27,6 +27,8 @@ I'm driven by the idea of leveraging technology to innovate in the culinary indu
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" title="twitter" alt="Twitter" height="16" width="16" /> [Twitter](https://x.com/zalbright404)
 
+<img src="https://fontawesome.com/icons/discord?f=brands&s=solid" title="discord" alt="Discord" height="16" width="16"/> [Discord](https://discordapp.com/users/end0skeleton)
+
 #### Personal Touch
 😄 Pronouns: He/Him (dude, bro, man — take your pick!)
 
