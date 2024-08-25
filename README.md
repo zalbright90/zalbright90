@@ -24,6 +24,7 @@ I'm driven by the idea of leveraging technology to innovate in the culinary indu
 💬 I’m open to chatting about anything — from tech to tacos! Let’s connect:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="linkedin" alt="LinkedIn" height="16" width="16"/> [LinkedIn](https://www.linkedin.com/in/zach-albright-3993112b3/)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" title="twitter" alt="Twitter" height="16" width="16" /> [Twitter](https://x.com/zalbright404)
 
 #### Personal Touch
