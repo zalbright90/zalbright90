@@ -23,9 +23,10 @@ I'm driven by the idea of leveraging technology to innovate in the culinary indu
 #### Let's Connect!
 💬 I’m open to chatting about anything — from tech to tacos! Let’s connect:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="linkedin" alt="LinkedIn" height="16" width="16"/> LinkedIn
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" title="twitter" alt="Twitter" height="16" width="16" /> Twitter
-Personal Touch
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="linkedin" alt="LinkedIn" height="16" width="16"/> [LinkedIn](https://www.linkedin.com/in/zach-albright-3993112b3/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" title="twitter" alt="Twitter" height="16" width="16" /> [Twitter](https://x.com/zalbright404)
+
+#### Personal Touch
 😄 Pronouns: He/Him (dude, bro, man — take your pick!)
 
 ⚡ Fun Fact: I’ve grilled, sautéed, and seared my way through over 300,000 tacos, 5,000 steaks (from Filet Mignon to Top Sirloin), and 75,000 gourmet burgers!
@@ -38,7 +39,7 @@ A learned man's heart,
 whose learning is deep,
 seldom sings with joy." ~ The Hávamál
 
-## GitHub Stats
+### GitHub Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zalbright90&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -46,27 +47,27 @@ seldom sings with joy." ~ The Hávamál
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zalbright90&layout=compact&theme=highcontrast)
 
-## Languages
+### Languages
 | HTML | CSS | JS | TS | C |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title ="html5" alt="HTML5" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="css3" alt="CSS3" height ="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="javascript" alt="JavaScript" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="typescript" alt="TypeScript" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title ="C" alt="C" height="64" width="64"/> |
 
-## Web Frameworks
+### Web Frameworks
 | Node.js Exosystem | express.js | nest.js | moleculer |
 | :---: | :---: | :---: | :---: |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" title="nodejs" alt="NodeJS" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="expressjs" alt="ExpressJS" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="nestjs" alt="NestJS" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moleculer/moleculer-original.svg" title="moleculer" alt="Moleculer" height="64" width="64"/> |
 
-## Databases
+### Databases
 | PostgreSQL | MongoDB | Redis |
 | :---: | :---: | :---: |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgresql" alt="PostgreSQL" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="mongodb" alt="MongoDB" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="redis" alt="Redis" height="64" width="64"/> |
 
-## ORMs
+### ORMs
 | Sequelize |
 | :---: |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" title="sequelize" alt="Sequelize" height="64" width="64"/> |
 
-## Data Formats
+### Data Formats
 | JSON |
 | :---: |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="JSON" alt="JSON" height="64" width="64"/> |
