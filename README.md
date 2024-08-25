@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## Hello World! 👋
-I'm Zach, I'm a 🔪 Lead Line Cook 🔪 by trade, and I've been in the trenches of kitchens for almost two decades. I have always been an aspiring developer, on May 2024, I decided to make a bigger change in my life taking what I've learned in kitchens and hopefully being part of the forefront of incorporating AI into kitchens in the future. I already have a couple projects in mind, but I have one main one I'm focused on. I have a bit to learn, as well as some math to brush up on. Feels good man!
+Hi, I'm Zach, a 🔪 Lead Line Cook 🔪 with nearly two decades of experience in the kitchen trenches. Cooking has been my passion, but in May 2024, I decided to take on a new challenge—combining my culinary expertise with my long-standing interest in technology. My goal is to be at the forefront of integrating AI into kitchen operations, creating innovative solutions that bridge the gap between food and tech. I've already got a few projects in the works, with one major initiative taking center stage. There's still plenty to learn, including brushing up on some math, but the journey is exhilarating. Feels good, man!
 
 ## About Me
 I'm passionate about leveraging technology to innovate in the culinary industry, particularly focusing on financial management and sustainability through AI integration.
