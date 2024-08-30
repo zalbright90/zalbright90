@@ -23,11 +23,7 @@ I'm driven by the idea of leveraging technology to innovate in the culinary indu
 #### Let's Connect!
 💬 I’m open to chatting about anything — from tech to tacos! Let’s connect:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="linkedin" alt="LinkedIn" height="16" width="16"/> [LinkedIn](https://www.linkedin.com/in/zach-albright-3993112b3/)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" title="twitter" alt="Twitter" height="16" width="16" /> [Twitter](https://x.com/zalbright404)
-
-<img src="https://avatars.githubusercontent.com/u/1965106?s=200&v=4" title="discord" alt="Discord" height="16" width="16"/> [Discord](https://discordapp.com/users/end0skeleton)
+<img src="https://assets.production.linktr.ee/f362a42be9be49acd1072b26bb02599c1c6584c0/favicon/favicon.png" title="linktree" alt="Linktree" height="16" width="16"/> [Linktree](https://linktr.ee/End0Skeleton)
 
 #### Personal Touch
 😄 Pronouns: He/Him (dude, bro, man — take your pick!)
