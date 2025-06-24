@@ -31,7 +31,7 @@ I’m always open to connecting with fellow developers, mentors, and collaborato
 ⚡ Fun Fact: I’ve grilled, sautéed, and seared my way through over 300,000 tacos, 5,000 steaks (from Filet Mignon to Top Sirloin), and 75,000 gourmet burgers!
 I’m a lifelong learner with a deep respect for wisdom, logic, and tradition. I have an unhinged hunger for knowledge, for lack of better words.
 
-🗨️ Favorite Quote:
+🗨️ Favorite Quote: <br>
 *"Moderately wise a man should be,* <br>
 *not too crafty or clever.* <br>
 *A learned man's heart,* <br>
