@@ -36,7 +36,8 @@ I’m a lifelong learner with a deep respect for wisdom, logic, and tradition. I
 *not too crafty or clever.* <br>
 *A learned man's heart,* <br>
 *whose learning is deep,* <br>
-*seldom sings with joy."* ~ The Hávamál
+*seldom sings with joy."* <br>
+~ Hávamál
 
 ### GitHub Stats
 
