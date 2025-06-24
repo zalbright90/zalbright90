@@ -6,8 +6,8 @@ I’m passionate about building intuitive, efficient, and visually appealing web
 
 ### Current Focus
 I’m actively sharpening my skills and building projects with:
-🔧 The Odin Project – Full-stack JavaScript (HTML, CSS, JS, Node.js, Express)
-🧮 Math refreshers and foundational computer science concepts (Khan Academy)
+- 🔧 The Odin Project – Full-stack JavaScript (HTML, CSS, JS, Node.js, Express)
+- 🧮 Math refreshers and foundational computer science concepts (Khan Academy)
 
 ## 🛠️ Skills In Progress
 - HTML5 / CSS3 / JavaScript (ES6+)
