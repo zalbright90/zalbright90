@@ -10,26 +10,26 @@ I’m actively sharpening my skills and building projects with:
 🧮 Math refreshers and foundational computer science concepts (Khan Academy)
 
 ## 🛠️ Skills In Progress
-HTML5 / CSS3 / JavaScript (ES6+)
-Git & GitHub
-Responsive Design & Accessibility
-DOM Manipulation & Event Handling
-Basic Backend (Node.js + Express)
-RESTful APIs
+- HTML5 / CSS3 / JavaScript (ES6+)
+- Git & GitHub
+- Responsive Design & Accessibility
+- DOM Manipulation & Event Handling
+- Basic Backend (Node.js + Express)
+- RESTful APIs
 
 ### 📌 Goals
-✅ Launch multiple full-stack projects for real-world use
-✅ Build a developer portfolio that showcases both front-end and back-end skills
-🚧 Start contributing to open-source web projects
-🔮 Explore AI-driven applications in the culinary space (future focus)
+- ✅ Launch multiple full-stack projects for real-world use
+- ✅ Build a developer portfolio that showcases both front-end and back-end skills
+- 🚧 Start contributing to open-source web projects
+- 🔮 Explore AI-driven applications in the culinary space (future focus)
 
 #### 🤝 Let's Connect
 I’m always open to connecting with fellow developers, mentors, and collaborators.
 <img src="https://assets.production.linktr.ee/f362a42be9be49acd1072b26bb02599c1c6584c0/favicon/favicon.png" title="linktree" alt="Linktree" height="16" width="16"/> [Linktree](https://linktr.ee/End0Skeleton)
 
 #### Personal Touch
-⚡ Fun Fact: I’ve grilled, sautéed, and seared my way through over 300,000 tacos, 5,000 steaks (from Filet Mignon to Top Sirloin), and 75,000 gourmet burgers!
-I’m a lifelong learner with a deep respect for wisdom, logic, and tradition. I have an unhinged hunger for knowledge, for lack of better words.
+- ⚡ Fun Fact: I’ve grilled, sautéed, and seared my way through over 300,000 tacos, 5,000 steaks (from Filet Mignon to Top Sirloin), and 75,000 gourmet burgers!
+- I’m a lifelong learner with a deep respect for wisdom, logic, and tradition. I have an unhinged hunger for knowledge, for lack of better words.
 
 🗨️ Favorite Quote: <br>
 *"Moderately wise a man should be,* <br>
