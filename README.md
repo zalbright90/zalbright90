@@ -53,14 +53,14 @@ I’m a lifelong learner with a deep respect for wisdom, logic, and tradition. I
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title ="html5" alt="HTML5" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="css3" alt="CSS3" height ="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="javascript" alt="JavaScript" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="typescript" alt="TypeScript" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title ="C" alt="C" height="64" width="64"/> |
 
 ### Web Frameworks
-| Node.js Exosystem | express.js | nest.js | moleculer |
-| :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" title="nodejs" alt="NodeJS" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="expressjs" alt="ExpressJS" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="nestjs" alt="NestJS" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moleculer/moleculer-original.svg" title="moleculer" alt="Moleculer" height="64" width="64"/> |
+| Node.js Exosystem | express.js | nest.js |
+| :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" title="nodejs" alt="NodeJS" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="expressjs" alt="ExpressJS" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="nestjs" alt="NestJS" height="64" width="64"/> |
 
 ### Databases
-| PostgreSQL | MongoDB | Redis |
+| PostgreSQL | MongoDB | SQLite |
 | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgresql" alt="PostgreSQL" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="mongodb" alt="MongoDB" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="redis" alt="Redis" height="64" width="64"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgresql" alt="PostgreSQL" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="mongodb" alt="MongoDB" height="64" width="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="sqlite" alt="SQLite" height="64" width="64"/> |
 
 ### ORMs
 | Sequelize |
