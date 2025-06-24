@@ -1,42 +1,42 @@
-# 🍴 Welcome to My GitHub Profile! 🖥️
-## Hello World! 👋
-
-Hey there! I'm Zach, a 🔪 Lead Line Cook 🔪 with nearly 20 years of culinary experience. After spending two decades crafting dishes, I’m diving headfirst into the tech world as of May 2024. My mission? To fuse my passion for food with technology, particularly AI, to revolutionize kitchen operations. While I'm still brushing up on some math and tech fundamentals, I'm thrilled by the challenge and excited to be working on projects that bring together my two passions. Feels good, man!
+# 🍴 Aspiring Full-Stack Web Developer 🖥️
+👋 Hey there! I'm Zach, a lead line cook turned aspiring web developer. After nearly 20 years in professional kitchens crafting unforgettable meals, I'm now channeling that same energy, creativity, and precision into writing clean, functional code. As of May 2024, I’ve committed full-time to my tech journey with a long-term goal of fusing food and technology through AI-driven culinary solutions.
 
 ### About Me
-I'm driven by the idea of leveraging technology to innovate in the culinary industry. My focus? Integrating AI to improve financial management, sourcing quality ingredients, and promote sustainability in the kitchen.
+I’m passionate about building intuitive, efficient, and visually appealing web experiences. My goal is to grow into a professional full-stack web developer while exploring how technology — especially AI — can innovate the culinary industry in the future.
 
 ### Current Focus
-🔭 I'm rekindling my love for development, with the goal of becoming a local leader in AI-driven culinary applications.
+I’m actively sharpening my skills and building projects with:
+🔧 The Odin Project – Full-stack JavaScript (HTML, CSS, JS, Node.js, Express)
+🧮 Math refreshers and foundational computer science concepts (Khan Academy)
 
-🌱 I’m sharpening my skills with:
-  * The Odin Project (Full-stack web development)
-  * CS50x (Harvard's Introduction to Computer Science)
+## 🛠️ Skills In Progress
+HTML5 / CSS3 / JavaScript (ES6+)
+Git & GitHub
+Responsive Design & Accessibility
+DOM Manipulation & Event Handling
+Basic Backend (Node.js + Express)
+RESTful APIs
 
-### Future Aspirations
-👯 I’m eager to collaborate on diverse projects that challenge me and expand my expertise.
+### 📌 Goals
+✅ Launch multiple full-stack projects for real-world use
+✅ Build a developer portfolio that showcases both front-end and back-end skills
+🚧 Start contributing to open-source web projects
+🔮 Explore AI-driven applications in the culinary space (future focus)
 
-🤔 Looking for insights on:
-  * The practical integration of AI in the culinary industry
-  * Key foundational skills required for AI development
-
-#### Let's Connect!
-💬 I’m open to chatting about anything — from tech to tacos! Let’s connect:
-
+#### 🤝 Let's Connect
+I’m always open to connecting with fellow developers, mentors, and collaborators.
 <img src="https://assets.production.linktr.ee/f362a42be9be49acd1072b26bb02599c1c6584c0/favicon/favicon.png" title="linktree" alt="Linktree" height="16" width="16"/> [Linktree](https://linktr.ee/End0Skeleton)
 
 #### Personal Touch
-😄 Pronouns: He/Him (dude, bro, man — take your pick!)
-
 ⚡ Fun Fact: I’ve grilled, sautéed, and seared my way through over 300,000 tacos, 5,000 steaks (from Filet Mignon to Top Sirloin), and 75,000 gourmet burgers!
+I’m a lifelong learner with a deep respect for wisdom, logic, and tradition. I have an unhinged hunger for knowledge, for lack of better words.
 
 🗨️ Favorite Quote:
-
-"Moderately wise a man should be,
-not too crafty or clever.
-A learned man's heart,
-whose learning is deep,
-seldom sings with joy." ~ The Hávamál
+*"Moderately wise a man should be,* <br>
+*not too crafty or clever.* <br>
+*A learned man's heart,* <br>
+*whose learning is deep,* <br>
+*seldom sings with joy."* ~ The Hávamál
 
 ### GitHub Stats
 
